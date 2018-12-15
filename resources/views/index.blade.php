@@ -37,7 +37,7 @@
 </div>
 
 <script>
-    function LA() {}
+    function LA() {};
     LA.token = "{{ csrf_token() }}";
 </script>
 
