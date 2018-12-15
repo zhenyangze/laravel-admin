@@ -33,7 +33,7 @@ var {$this->grid->getSelectedRowsName()} = function () {
     });
 
     return selected;
-}
+};
 
 EOT;
     }
